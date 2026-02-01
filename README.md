@@ -1,1 +1,7 @@
-# Etude_Attaque_ICMP_Redirect
+# Etude d'une attaque ICMP Redirect
+
+## Membres
+- Roland Ung
+- Jeff Bernabeo
+
+## Objectifs
