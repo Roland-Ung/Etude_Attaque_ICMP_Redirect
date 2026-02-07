@@ -8,3 +8,10 @@
 - Comprendre le fonctionnement du protocole ICMP et plus particulièrement des messages ICMP Redirect.
 - Analyser les mécanismes de mise à jour automatique de la table de routage sur une machine victime.
 - Mettre en œuvre une attaque ICMP Redirect et observer les paquets échangés
+
+## Environnement
+- Debian / Ubuntu
+- machine 1 : client
+- machine 2 : routeur
+- machine 3 : attaquant
+- machine 4 : serveur
